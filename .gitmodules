@@ -1,0 +1,3 @@
+[submodule "hello_cargo"]
+	path = hello_cargo
+	url = https://github.com/nueldotdev/Hello-Cargo-Rust/
